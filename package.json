@@ -1,0 +1,13 @@
+{
+  "name": "my-has-tech-services",
+  "version": "1.0.0",
+  "description": "Projet fullstack avec React et Vercel Functions",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no start script specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
